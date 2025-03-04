@@ -9,9 +9,20 @@
 5. You'll need to explain more to the regular folks why the project matters more that how you'd explain to tech experts.
    
 ## 2. What are some strategies to tailor your content to different audience types?
-
+1. Create a questionnaire to ask about their experience and familiarity with the topic.
+2. Observe non-verbal cues during presentation to understand whether they're following or not.
+3. Begin with basic questions to assess their understanding.
+4. Use interactive tools to help assess their understanding in real-time.
+5. Encourage questions and feedback to let them understand more what they had missed.
+    
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
+1. Understanding the audience by assessing their familiarity with the subject matter.
+2. Use simple language that is straightforward and clear.
+3. Use analogies and metaphors to relate complex ideas with everyday activities.
+4. Incorporate visual aids such as diagrams to help them understand more.
+5. Engage the audience either by asking questions.
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
+
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
